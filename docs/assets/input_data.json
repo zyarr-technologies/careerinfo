@@ -1,0 +1,2024 @@
+{
+    "Agriculture and Allied Sciences": [
+        {
+            "name": "Agricultural Engineer",
+            "filename": "data\\Agriculture and Allied Sciences\\01_Agricultural Engineer 0.png"
+        },
+        {
+            "name": "Agronomist",
+            "filename": "data\\Agriculture and Allied Sciences\\02_Agronomist 0.png"
+        },
+        {
+            "name": "Animal Health Worker",
+            "filename": "data\\Agriculture and Allied Sciences\\03_Animal Health Worker-0.png"
+        },
+        {
+            "name": "Aquaculture worker",
+            "filename": "data\\Agriculture and Allied Sciences\\04_Aquaculture worker-0.png"
+        },
+        {
+            "name": "Dairy farmer",
+            "filename": "data\\Agriculture and Allied Sciences\\05_Dairy farmer 0.png"
+        },
+        {
+            "name": "Dairy technologist",
+            "filename": "data\\Agriculture and Allied Sciences\\06_Dairy technologist 0.png"
+        },
+        {
+            "name": "Farmer",
+            "filename": "data\\Agriculture and Allied Sciences\\07_Farmer-0.png"
+        },
+        {
+            "name": "Fish and Sea Food Processor",
+            "filename": "data\\Agriculture and Allied Sciences\\08_Fish and Sea Food Processor 0.png"
+        },
+        {
+            "name": "Fisheries Development Officer",
+            "filename": "data\\Agriculture and Allied Sciences\\09_Fisheries Development Officer0.png"
+        },
+        {
+            "name": "Fisheries Extension Officer",
+            "filename": "data\\Agriculture and Allied Sciences\\10_Fisheries Extension Officer0.png"
+        },
+        {
+            "name": "Fisheries Officer",
+            "filename": "data\\Agriculture and Allied Sciences\\11_Fisheries Officer.png"
+        },
+        {
+            "name": "Fishery Technician-Aquaculture Technician",
+            "filename": "data\\Agriculture and Allied Sciences\\12_Fishery Technician-Aquaculture Technician.png"
+        },
+        {
+            "name": "Florist",
+            "filename": "data\\Agriculture and Allied Sciences\\13_Florist.png"
+        },
+        {
+            "name": "Horticulturist",
+            "filename": "data\\Agriculture and Allied Sciences\\14_Horticulturist.png"
+        },
+        {
+            "name": "Hydroponics Technician",
+            "filename": "data\\Agriculture and Allied Sciences\\15_Hydroponics Technician.png"
+        },
+        {
+            "name": "Pisciculturist",
+            "filename": "data\\Agriculture and Allied Sciences\\16_Pisciculturist.png"
+        },
+        {
+            "name": "Seed Technologist",
+            "filename": "data\\Agriculture and Allied Sciences\\17_Seed Technologist.png"
+        },
+        {
+            "name": "Shrimp Farmer",
+            "filename": "data\\Agriculture and Allied Sciences\\18_Shrimp Farmer.png"
+        },
+        {
+            "name": "Soil Scientist",
+            "filename": "data\\Agriculture and Allied Sciences\\19_Soil Scientist.png"
+        },
+        {
+            "name": "Tea Plantation Manager",
+            "filename": "data\\Agriculture and Allied Sciences\\20_Tea Plantation Manager.png"
+        },
+        {
+            "name": "Vegetable Grower",
+            "filename": "data\\Agriculture and Allied Sciences\\21_Vegetable Grower.png"
+        },
+        {
+            "name": "Veterinarian",
+            "filename": "data\\Agriculture and Allied Sciences\\22_Veterinarian.png"
+        },
+        {
+            "name": "Vineyard Grower",
+            "filename": "data\\Agriculture and Allied Sciences\\23_Vineyard Grower.png"
+        }
+    ],
+    "Arts, Media, Marketing and Entertainment": [
+        {
+            "name": "Actor",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\01_Actor_0.png"
+        },
+        {
+            "name": "Anchor",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\02_Anchor.png"
+        },
+        {
+            "name": "Animator",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\03_Animator.png"
+        },
+        {
+            "name": "Archivist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\04_Archivist.png"
+        },
+        {
+            "name": "Art Dealer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\05_Art Dealer.png"
+        },
+        {
+            "name": "Art Director",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\06_Art Director.png"
+        },
+        {
+            "name": "Art Historian",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\07_Art Historian.png"
+        },
+        {
+            "name": "Artist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\08_Artist.png"
+        },
+        {
+            "name": "Blogger",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\09_Blogger.png"
+        },
+        {
+            "name": "Brand Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\10_Brand Manager.png"
+        },
+        {
+            "name": "Calligrapher",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\11_Calligrapher.png"
+        },
+        {
+            "name": "Cameraperson",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\12_Cameraperson.png"
+        },
+        {
+            "name": "Cartographer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\13_Cartographer-0.png"
+        },
+        {
+            "name": "Cartoonist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\14_Cartoonist.png"
+        },
+        {
+            "name": "Ceramics Glass Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\15_Ceramics Glass Designer_0.png"
+        },
+        {
+            "name": "Choreographer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\16_Choreographer.png"
+        },
+        {
+            "name": "Cinematographer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\17_Cinematographer.png"
+        },
+        {
+            "name": "Commissioning editor",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\18_Commissioning editor-0.png"
+        },
+        {
+            "name": "Community journalist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\19_Community journalist.png"
+        },
+        {
+            "name": "Content writer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\20_Content writer-0.png"
+        },
+        {
+            "name": "Copy Editor",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\21_Copy Editor.png"
+        },
+        {
+            "name": "Copywriter",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\22_Copywriter.png"
+        },
+        {
+            "name": "Creative Writer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\23_Creative Writer.png"
+        },
+        {
+            "name": "Dancer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\24_Dancer.png"
+        },
+        {
+            "name": "Digital Marketing Expert",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\25_Digital Marketing Expert.png"
+        },
+        {
+            "name": "Disc Jockey",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\26_Disc Jockey.png"
+        },
+        {
+            "name": "Dubbing Artist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\27_Dubbing Artist.png"
+        },
+        {
+            "name": "Editor",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\28_Editor.png"
+        },
+        {
+            "name": "Editorial Assistant",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\29_Editorial Assistant.png"
+        },
+        {
+            "name": "Fashion Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\30_Fashion Designer.png"
+        },
+        {
+            "name": "Film Director",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\31_Film Director 0.png"
+        },
+        {
+            "name": "Film-Video-Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\32_Film-Video-Designer.png"
+        },
+        {
+            "name": "Illustrator",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\33_Illustrator-0.png"
+        },
+        {
+            "name": "Journalist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\34_Journalist.png"
+        },
+        {
+            "name": "Literary Agent",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\35_Literary Agent.png"
+        },
+        {
+            "name": "Marketing Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\36_Marketing Manager.png"
+        },
+        {
+            "name": "Media planner",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\37_Media planner-0.png"
+        },
+        {
+            "name": "Model",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\38_Model.png"
+        },
+        {
+            "name": "Multimedia Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\39_Multimedia Designer.png"
+        },
+        {
+            "name": "Musician",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\40_Musician.png"
+        },
+        {
+            "name": "Online Advertising Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\41_Online Advertising Manager.png"
+        },
+        {
+            "name": "Photographer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\42_Photographer.png"
+        },
+        {
+            "name": "PhotoJournalist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\43_PhotoJournalist.png"
+        },
+        {
+            "name": "Producer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\44_Producer.png"
+        },
+        {
+            "name": "Production Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\45_Production Manager.png"
+        },
+        {
+            "name": "Proofreader",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\46_Proofreader.png"
+        },
+        {
+            "name": "Public Relations Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\47_Public Relations Manager.png"
+        },
+        {
+            "name": "Public Relations Officer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\48_Public Relations Officer.png"
+        },
+        {
+            "name": "Publicist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\49_Publicist.png"
+        },
+        {
+            "name": "Publisher",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\50_Publisher.png"
+        },
+        {
+            "name": "Radio Jockey",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\51_Radio Jockey.png"
+        },
+        {
+            "name": "Receptionist-",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\52_Receptionist-.png"
+        },
+        {
+            "name": "Salesman-Sales Representative",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\53_Salesman-Sales Representative.png"
+        },
+        {
+            "name": "Screenwriter",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\54_Screenwriter.png"
+        },
+        {
+            "name": "Scriptwriter",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\55_Scriptwriter.png"
+        },
+        {
+            "name": "Sculptor_",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\56_Sculptor_.png"
+        },
+        {
+            "name": "Singer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\57_Singer.png"
+        },
+        {
+            "name": "SOCIAL MEDIA EXECUTIVE",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\58_SOCIAL MEDIA EXECUTIVE0.png"
+        },
+        {
+            "name": "Social Media Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\59_Social Media Manager.png"
+        },
+        {
+            "name": "Sound Recordist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\60_Sound Recordist.png"
+        },
+        {
+            "name": "Talent Manager",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\61_Talent Manager.png"
+        },
+        {
+            "name": "TATTOO ARTIST",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\62_TATTOO ARTIST 0.png"
+        },
+        {
+            "name": "Technical Writer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\63_Technical Writer.png"
+        },
+        {
+            "name": "Textile Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\64_Textile Designer-0.png"
+        },
+        {
+            "name": "Theatre Artist",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\65_Theatre Artist.png"
+        },
+        {
+            "name": "Toy Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\66_Toy Designer.png"
+        },
+        {
+            "name": "translator",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\67_translator.png"
+        },
+        {
+            "name": "Visual Communication Designer",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\68_Visual Communication Designer0.png"
+        },
+        {
+            "name": "VFX Editor",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\69_VFX Editor.png"
+        },
+        {
+            "name": "Visual Merchandiser-",
+            "filename": "data\\Arts, Media, Marketing and Entertainment\\70_Visual Merchandiser-.png"
+        }
+    ],
+    "Business and Finance": [
+        {
+            "name": "Actuary",
+            "filename": "data\\Business and Finance\\01_Actuary.png"
+        },
+        {
+            "name": "Bank Clerk",
+            "filename": "data\\Business and Finance\\02_Bank Clerk.png"
+        },
+        {
+            "name": "Bank ManagerBranch Manager",
+            "filename": "data\\Business and Finance\\03_Bank ManagerBranch Manager.png"
+        },
+        {
+            "name": "Bank Probationary Officer",
+            "filename": "data\\Business and Finance\\04_Bank Probationary Officer.png"
+        },
+        {
+            "name": "Business Development Coordinator",
+            "filename": "data\\Business and Finance\\05_Business Development Coordinator.png"
+        },
+        {
+            "name": "Chartered Accountant",
+            "filename": "data\\Business and Finance\\06_Chartered Accountant.png"
+        },
+        {
+            "name": "Company Secretary",
+            "filename": "data\\Business and Finance\\07_Company Secretary.png"
+        },
+        {
+            "name": "Compliance Officer",
+            "filename": "data\\Business and Finance\\08_Compliance Officer.png"
+        },
+        {
+            "name": "Contract Administrator",
+            "filename": "data\\Business and Finance\\09_Contract Administrator.png"
+        },
+        {
+            "name": "Cost and Work Accountant",
+            "filename": "data\\Business and Finance\\10_Cost and Work Accountant.png"
+        },
+        {
+            "name": "Customer Care Executive -",
+            "filename": "data\\Business and Finance\\11_Customer Care Executive -.png"
+        },
+        {
+            "name": "Distributor Sales Representative",
+            "filename": "data\\Business and Finance\\12_Distributor Sales Representative.png"
+        },
+        {
+            "name": "Equity Research Analyst",
+            "filename": "data\\Business and Finance\\13_Equity Research Analyst.png"
+        },
+        {
+            "name": "Finance Manager",
+            "filename": "data\\Business and Finance\\14_Finance Manager.png"
+        },
+        {
+            "name": "Financial Accountant",
+            "filename": "data\\Business and Finance\\15_Financial Accountant-0.png"
+        },
+        {
+            "name": "Financial Analyst",
+            "filename": "data\\Business and Finance\\16_Financial Analyst-0.png"
+        },
+        {
+            "name": "financial-engineer",
+            "filename": "data\\Business and Finance\\17_financial-engineer.png"
+        },
+        {
+            "name": "Insurance-agent",
+            "filename": "data\\Business and Finance\\18_Insurance-agent-0.png"
+        },
+        {
+            "name": "International Business Manager",
+            "filename": "data\\Business and Finance\\19_International Business Manager.png"
+        },
+        {
+            "name": "Investment Banker",
+            "filename": "data\\Business and Finance\\20_Investment Banker.png"
+        },
+        {
+            "name": "Investment or Portfolio Manager",
+            "filename": "data\\Business and Finance\\21_Investment or Portfolio Manager-0.png"
+        },
+        {
+            "name": "life insurance agent",
+            "filename": "data\\Business and Finance\\22_life insurance agent-0.png"
+        },
+        {
+            "name": "loan officer",
+            "filename": "data\\Business and Finance\\23_loan officer 0.png"
+        },
+        {
+            "name": "microfinance executive",
+            "filename": "data\\Business and Finance\\24_microfinance executive 0.png"
+        },
+        {
+            "name": "Property Manager",
+            "filename": "data\\Business and Finance\\25_Property Manager.png"
+        },
+        {
+            "name": "Real Estate Agent",
+            "filename": "data\\Business and Finance\\26_Real Estate Agent.png"
+        },
+        {
+            "name": "Real Estate Consultant",
+            "filename": "data\\Business and Finance\\27_Real Estate Consultant.png"
+        },
+        {
+            "name": "Relationship Manager",
+            "filename": "data\\Business and Finance\\28_Relationship Manager.png"
+        },
+        {
+            "name": "Risk Manager",
+            "filename": "data\\Business and Finance\\29_Risk Manager.png"
+        },
+        {
+            "name": "Service Fulfilment Executive",
+            "filename": "data\\Business and Finance\\30_Service Fulfilment Executive.png"
+        },
+        {
+            "name": "Stock Broker",
+            "filename": "data\\Business and Finance\\31_Stock Broker.png"
+        },
+        {
+            "name": "Tax Auditor",
+            "filename": "data\\Business and Finance\\32_Tax Auditor.png"
+        },
+        {
+            "name": "Venture Capitalist",
+            "filename": "data\\Business and Finance\\33_Venture Capitalist.png"
+        }
+    ],
+    "Education and Training": [
+        {
+            "name": "Academic Researcher",
+            "filename": "data\\Education and Training\\01_Academic Researcher.png"
+        },
+        {
+            "name": "Accent Trainer",
+            "filename": "data\\Education and Training\\02_Accent Trainer.png"
+        },
+        {
+            "name": "Assistant Professor",
+            "filename": "data\\Education and Training\\03_Assistant Professor.png"
+        },
+        {
+            "name": "Assistant Teacher",
+            "filename": "data\\Education and Training\\04_Assistant Teacher.png"
+        },
+        {
+            "name": "Career Counsellor",
+            "filename": "data\\Education and Training\\05_Career Counsellor.png"
+        },
+        {
+            "name": "Curriculum Developer",
+            "filename": "data\\Education and Training\\06_Curriculum Developer.png"
+        },
+        {
+            "name": "Foreign Language Teacher",
+            "filename": "data\\Education and Training\\07_Foreign Language Teacher.png"
+        },
+        {
+            "name": "Interpreter",
+            "filename": "data\\Education and Training\\08_Interpreter.png"
+        },
+        {
+            "name": "Lecturer (College and University)",
+            "filename": "data\\Education and Training\\09_Lecturer (College and University).png"
+        },
+        {
+            "name": "Lecturer (College and University)",
+            "filename": "data\\Education and Training\\09_Lecturer (College and University)2.png"
+        },
+        {
+            "name": "Lexicographer",
+            "filename": "data\\Education and Training\\10_Lexicographer.png"
+        },
+        {
+            "name": "Librarian",
+            "filename": "data\\Education and Training\\11_Librarian.png"
+        },
+        {
+            "name": "Linguist",
+            "filename": "data\\Education and Training\\12_Linguist.png"
+        },
+        {
+            "name": "Physical Educator",
+            "filename": "data\\Education and Training\\13_Physical Educator.png"
+        },
+        {
+            "name": "Physical Fitness Trainer",
+            "filename": "data\\Education and Training\\14_Physical Fitness Trainer.png"
+        },
+        {
+            "name": "Pre-school Educator",
+            "filename": "data\\Education and Training\\15_Pre-school Educator.png"
+        },
+        {
+            "name": "Referee football-",
+            "filename": "data\\Education and Training\\16_Referee football-.png"
+        },
+        {
+            "name": "School Counsellor",
+            "filename": "data\\Education and Training\\17_School Counsellor.png"
+        },
+        {
+            "name": "School Teacher",
+            "filename": "data\\Education and Training\\18_School Teacher.png"
+        },
+        {
+            "name": "Special Educator",
+            "filename": "data\\Education and Training\\19_Special Educator.png"
+        },
+        {
+            "name": "Trainer_",
+            "filename": "data\\Education and Training\\20_Trainer_.png"
+        },
+        {
+            "name": "Translator",
+            "filename": "data\\Education and Training\\21_Translator.png"
+        }
+    ],
+    "Engineering": [
+        {
+            "name": "Aeronautical Engineer",
+            "filename": "data\\Engineering\\01_Aeronautical Engineer0.png"
+        },
+        {
+            "name": "Automobile Engineer",
+            "filename": "data\\Engineering\\02_Automobile Engineer0.png"
+        },
+        {
+            "name": "Bioinformatics Engineer",
+            "filename": "data\\Engineering\\03_Bioinformatics Engineer0.png"
+        },
+        {
+            "name": "Biomedical Engineer",
+            "filename": "data\\Engineering\\04_Biomedical Engineer0.png"
+        },
+        {
+            "name": "Biotechnology Engineer",
+            "filename": "data\\Engineering\\05_Biotechnology Engineer0.png"
+        },
+        {
+            "name": "Broadcast Engineer",
+            "filename": "data\\Engineering\\06_Broadcast Engineer.png"
+        },
+        {
+            "name": "CAD Designer for Carpets",
+            "filename": "data\\Engineering\\07_CAD Designer for Carpets0.png"
+        },
+        {
+            "name": "CAD Jewellery Designer",
+            "filename": "data\\Engineering\\08_CAD Jewellery Designer0.png"
+        },
+        {
+            "name": "Ceramic Technologist-Engineer",
+            "filename": "data\\Engineering\\09_Ceramic Technologist-Engineer0.png"
+        },
+        {
+            "name": "Chemical Engineer",
+            "filename": "data\\Engineering\\10_Chemical Engineer0.png"
+        },
+        {
+            "name": "Civil Engineer-Civil Structural Engineer",
+            "filename": "data\\Engineering\\11_Civil Engineer-Civil Structural Engineer0.png"
+        },
+        {
+            "name": "Corrosion Engineer",
+            "filename": "data\\Engineering\\12_Corrosion Engineer0.png"
+        },
+        {
+            "name": "Design Engineer",
+            "filename": "data\\Engineering\\13_Design Engineer0.png"
+        },
+        {
+            "name": "Development Operations Engineer",
+            "filename": "data\\Engineering\\14_Development Operations Engineer.png"
+        },
+        {
+            "name": "Electrical &  Electronics Engineer",
+            "filename": "data\\Engineering\\15_Electrical &  Electronics Engineer0.png"
+        },
+        {
+            "name": "Electronics Designer-VLSI-Embedded System Designer",
+            "filename": "data\\Engineering\\16_Electronics Designer-VLSI-Embedded System Designer0.png"
+        },
+        {
+            "name": "Electronics and Communication Engineer",
+            "filename": "data\\Engineering\\17_Electronics and Communication Engineer0.png"
+        },
+        {
+            "name": "Environmental Engineer",
+            "filename": "data\\Engineering\\18_Environmental Engineer0.png"
+        },
+        {
+            "name": "Fire and Safety Engineer",
+            "filename": "data\\Engineering\\19_Fire and Safety Engineer0.png"
+        },
+        {
+            "name": "Food Engineer",
+            "filename": "data\\Engineering\\20_Food Engineer0.png"
+        },
+        {
+            "name": "Footwear Designer",
+            "filename": "data\\Engineering\\21_Footwear Designer0.png"
+        },
+        {
+            "name": "Forensic Engineer",
+            "filename": "data\\Engineering\\22_Forensic Engineer0.png"
+        },
+        {
+            "name": "Geo-informatics Engineer",
+            "filename": "data\\Engineering\\23_Geo-informatics Engineer0.png"
+        },
+        {
+            "name": "Graphics Designer",
+            "filename": "data\\Engineering\\24_Graphics Designer0.png"
+        },
+        {
+            "name": "Industrial Designer",
+            "filename": "data\\Engineering\\25_Industrial Designer0.png"
+        },
+        {
+            "name": "Industrial Engineer",
+            "filename": "data\\Engineering\\26_Industrial Engineer0.png"
+        },
+        {
+            "name": "Instrumentation Engineer",
+            "filename": "data\\Engineering\\27_Instrumentation Engineer0.png"
+        },
+        {
+            "name": "Manufacturing Engineer",
+            "filename": "data\\Engineering\\28_Manufacturing Engineer0.png"
+        },
+        {
+            "name": "Marine Engineer",
+            "filename": "data\\Engineering\\29_Marine Engineer0.png"
+        },
+        {
+            "name": "Mechanical Engineer",
+            "filename": "data\\Engineering\\30_Mechanical Engineer0.png"
+        },
+        {
+            "name": "Metallurgy Engineer",
+            "filename": "data\\Engineering\\31_Metallurgy Engineer0.png"
+        },
+        {
+            "name": "Mining Engineer",
+            "filename": "data\\Engineering\\32_Mining Engineer0.png"
+        },
+        {
+            "name": "Nanotechnology-Nanoscience Engineer",
+            "filename": "data\\Engineering\\33_Nanotechnology-Nanoscience Engineer0.png"
+        },
+        {
+            "name": "Optical Engineer",
+            "filename": "data\\Engineering\\34_Optical Engineer0.png"
+        },
+        {
+            "name": "Petroleum Engineer",
+            "filename": "data\\Engineering\\35_Petroleum Engineer0.png"
+        },
+        {
+            "name": "Pharmaceutical Engineer",
+            "filename": "data\\Engineering\\36_Pharmaceutical Engineer0.png"
+        },
+        {
+            "name": "Printing Engineer-Technologist",
+            "filename": "data\\Engineering\\37_Printing Engineer-Technologist0.png"
+        },
+        {
+            "name": "Process Engineer",
+            "filename": "data\\Engineering\\38_Process Engineer0.png"
+        },
+        {
+            "name": "Product Designer",
+            "filename": "data\\Engineering\\39_Product Designer0.png"
+        },
+        {
+            "name": "Quality Assurance Engineer",
+            "filename": "data\\Engineering\\40_Quality Assurance Engineer0.png"
+        },
+        {
+            "name": "Railway Engineer",
+            "filename": "data\\Engineering\\41_Railway Engineer0.png"
+        },
+        {
+            "name": "Robotics Engineer",
+            "filename": "data\\Engineering\\42_Robotics Engineer0.png"
+        },
+        {
+            "name": "Sales Engineer",
+            "filename": "data\\Engineering\\43_Sales Engineer0.png"
+        },
+        {
+            "name": "Sales Engineer01 (1)",
+            "filename": "data\\Engineering\\43_Sales Engineer01 (1).png"
+        },
+        {
+            "name": "Smart Manufacturing and Automation Engineer",
+            "filename": "data\\Engineering\\44_Smart Manufacturing and Automation Engineer02.png"
+        },
+        {
+            "name": "Sound Engineer",
+            "filename": "data\\Engineering\\45_Sound Engineer0.png"
+        },
+        {
+            "name": "Textile Engineer",
+            "filename": "data\\Engineering\\46_Textile Engineer0.png"
+        },
+        {
+            "name": "Tool Engineer",
+            "filename": "data\\Engineering\\47_Tool Engineer0.png"
+        },
+        {
+            "name": "Water Resource Engineer",
+            "filename": "data\\Engineering\\48_Water Resource Engineer0.png"
+        }
+    ],
+    "Government Services": [
+        {
+            "name": "Agniveer",
+            "filename": "data\\Government Services\\01_Agniveer0.png"
+        },
+        {
+            "name": "Border Security Force",
+            "filename": "data\\Government Services\\02_Border Security Force0.png"
+        },
+        {
+            "name": "CISF Officer",
+            "filename": "data\\Government Services\\03_CISF Officer0.png"
+        },
+        {
+            "name": "Coast Guard",
+            "filename": "data\\Government Services\\04_Coast Guard0.png"
+        },
+        {
+            "name": "CRPF Officer",
+            "filename": "data\\Government Services\\05_CRPF Officer0.png"
+        },
+        {
+            "name": "Customs Officer",
+            "filename": "data\\Government Services\\06_Customs Officer0.png"
+        },
+        {
+            "name": "FSSAI Officer",
+            "filename": "data\\Government Services\\07_FSSAI Officer0.png"
+        },
+        {
+            "name": "Gramin Dak Sevak",
+            "filename": "data\\Government Services\\08_Gramin Dak Sevak0.png"
+        },
+        {
+            "name": "Indian Administrative Service",
+            "filename": "data\\Government Services\\09_Indian Administrative Service0.png"
+        },
+        {
+            "name": "Indian Air Force Officer",
+            "filename": "data\\Government Services\\10_Indian Air Force Officer 0.png"
+        },
+        {
+            "name": "Indian Army Officer",
+            "filename": "data\\Government Services\\11_Indian Army Officer0.png"
+        },
+        {
+            "name": "Indian Foreign Service",
+            "filename": "data\\Government Services\\12_Indian Foreign Service.png"
+        },
+        {
+            "name": "Indian Forest Service",
+            "filename": "data\\Government Services\\13_Indian Forest Service0.png"
+        },
+        {
+            "name": "Indian Home Guard",
+            "filename": "data\\Government Services\\14_Indian Home Guard0.png"
+        },
+        {
+            "name": "Indian Navy Officer",
+            "filename": "data\\Government Services\\15_Indian Navy Officer0.png"
+        },
+        {
+            "name": "Indian Police Service",
+            "filename": "data\\Government Services\\16_Indian Police Service0.png"
+        },
+        {
+            "name": "Indian Railway Accounts Service",
+            "filename": "data\\Government Services\\17_Indian Railway Accounts Service0.png"
+        },
+        {
+            "name": "Indian Railway Personnel Service",
+            "filename": "data\\Government Services\\18_Indian Railway Personnel Service.png"
+        },
+        {
+            "name": "Indian Railway Electrical Engineer",
+            "filename": "data\\Government Services\\19_Indian Railway Electrical Engineer0.png"
+        },
+        {
+            "name": "Indian Railway Service of Engineer",
+            "filename": "data\\Government Services\\20_Indian Railway Service of Engineer0.png"
+        },
+        {
+            "name": "Indian Railway Service of Mechanical Engineer",
+            "filename": "data\\Government Services\\21_Indian Railway Service of Mechanical Engineer.png"
+        },
+        {
+            "name": "Indian Railway Service of Signal Engineer",
+            "filename": "data\\Government Services\\22_Indian Railway Service of Signal Engineer0.png"
+        },
+        {
+            "name": "Indian Railway Stores Service (IRSS)",
+            "filename": "data\\Government Services\\23_Indian Railway Stores Service (IRSS)0.png"
+        },
+        {
+            "name": "Indian Railways Traffic Service",
+            "filename": "data\\Government Services\\24_Indian Railways Traffic Service0.png"
+        },
+        {
+            "name": "Indian Revenue Service-",
+            "filename": "data\\Government Services\\25_Indian Revenue Service-.png"
+        },
+        {
+            "name": "Inspector - Income Tax",
+            "filename": "data\\Government Services\\26_Inspector - Income Tax0.png"
+        },
+        {
+            "name": "Indo-Tibetan Border Police Officer",
+            "filename": "data\\Government Services\\27_Indo-Tibetan Border Police Officer0.png"
+        },
+        {
+            "name": "Loco Pilot",
+            "filename": "data\\Government Services\\28_Loco Pilot0.png"
+        },
+        {
+            "name": "Merchant Navy Officer",
+            "filename": "data\\Government Services\\29_Merchant Navy Officer0.png"
+        },
+        {
+            "name": "Police Constable",
+            "filename": "data\\Government Services\\30_Police Constable0.png"
+        },
+        {
+            "name": "Railway Protection Force",
+            "filename": "data\\Government Services\\31_Railway Protection Force 0.png"
+        },
+        {
+            "name": "Sashastra Seema Bal (SSB) Officer",
+            "filename": "data\\Government Services\\32_Sashastra Seema Bal (SSB) Officer0.png"
+        },
+        {
+            "name": "Sub-inspector of Police",
+            "filename": "data\\Government Services\\33_Sub-inspector of Police0.png"
+        }
+    ],
+    "Health and Wellness": [
+        {
+            "name": "Acupuncturist",
+            "filename": "data\\Health and Wellness\\01_Acupuncturist.png"
+        },
+        {
+            "name": "Anaesthesiologist",
+            "filename": "data\\Health and Wellness\\02_Anaesthesiologist.png"
+        },
+        {
+            "name": "Aromatherapist",
+            "filename": "data\\Health and Wellness\\03_Aromatherapist.png"
+        },
+        {
+            "name": "Athlete Development Specialist",
+            "filename": "data\\Health and Wellness\\04_Athlete Development Specialist.png"
+        },
+        {
+            "name": "Auxiliary Nurse",
+            "filename": "data\\Health and Wellness\\05_Auxiliary Nurse.png"
+        },
+        {
+            "name": "Ayurvedic Doctor",
+            "filename": "data\\Health and Wellness\\06_Ayurvedic Doctor.png"
+        },
+        {
+            "name": "Bacteriologist",
+            "filename": "data\\Health and Wellness\\07_Bacteriologist-0.png"
+        },
+        {
+            "name": "Cardiologist",
+            "filename": "data\\Health and Wellness\\08_Cardiologist.png"
+        },
+        {
+            "name": "Care giver (Persons with Disabilities \u2013 Non-Clinical)",
+            "filename": "data\\Health and Wellness\\09_Care giver (Persons with Disabilities \u2013 Non-Clinical).png"
+        },
+        {
+            "name": "Chiropractor",
+            "filename": "data\\Health and Wellness\\10_Chiropractor.png"
+        },
+        {
+            "name": "Clinical Psychologist",
+            "filename": "data\\Health and Wellness\\11_Clinical Psychologist.png"
+        },
+        {
+            "name": "Cosmetic Dermatologist",
+            "filename": "data\\Health and Wellness\\12_Cosmetic Dermatologist.png"
+        },
+        {
+            "name": "Dance Therapist",
+            "filename": "data\\Health and Wellness\\13_Dance Therapist.png"
+        },
+        {
+            "name": "Dentist",
+            "filename": "data\\Health and Wellness\\14_Dentist.png"
+        },
+        {
+            "name": "Dento Oral Hygienist",
+            "filename": "data\\Health and Wellness\\15_Dento Oral Hygienist.png"
+        },
+        {
+            "name": "Dialysis Technician",
+            "filename": "data\\Health and Wellness\\16_Dialysis Technician.png"
+        },
+        {
+            "name": "Dietician",
+            "filename": "data\\Health and Wellness\\17_Dietician.png"
+        },
+        {
+            "name": "Ear Nose Throat Doctor",
+            "filename": "data\\Health and Wellness\\18_Ear Nose Throat Doctor.png"
+        },
+        {
+            "name": "Elderly Caretaker (Non-clinical)",
+            "filename": "data\\Health and Wellness\\19_Elderly Caretaker (Non-clinical).png"
+        },
+        {
+            "name": "Emergency Medical Technician",
+            "filename": "data\\Health and Wellness\\20_Emergency Medical Technician_0.png"
+        },
+        {
+            "name": "Endocrinologist",
+            "filename": "data\\Health and Wellness\\21_Endocrinologist.png"
+        },
+        {
+            "name": "General Duty Assistant- Advanced Options",
+            "filename": "data\\Health and Wellness\\22_General Duty Assistant- Advanced Options.png"
+        },
+        {
+            "name": "General Nurse and Midwife",
+            "filename": "data\\Health and Wellness\\23_General Nurse and Midwife.png"
+        },
+        {
+            "name": "General Physician",
+            "filename": "data\\Health and Wellness\\24_General Physician.png"
+        },
+        {
+            "name": "Gynaecologist",
+            "filename": "data\\Health and Wellness\\25_Gynaecologist0.png"
+        },
+        {
+            "name": "Health, Safety and Environment Officer",
+            "filename": "data\\Health and Wellness\\26_Health, Safety and Environment Officer.png"
+        },
+        {
+            "name": "Healthcare Manager",
+            "filename": "data\\Health and Wellness\\27_Healthcare Manager.png"
+        },
+        {
+            "name": "Homeopathy Doctor",
+            "filename": "data\\Health and Wellness\\28_Homeopathy Doctor.png"
+        },
+        {
+            "name": "Immunologist",
+            "filename": "data\\Health and Wellness\\29_Immunologist.png"
+        },
+        {
+            "name": "Lifeguard (Pool Guard, Beach Lifeguard, Life Saver)",
+            "filename": "data\\Health and Wellness\\30_Lifeguard (Pool Guard, Beach Lifeguard, Life Saver).png"
+        },
+        {
+            "name": "Massage Therapist",
+            "filename": "data\\Health and Wellness\\31_Massage Therapist0.png"
+        },
+        {
+            "name": "Medical Representative",
+            "filename": "data\\Health and Wellness\\32_Medical Representative.png"
+        },
+        {
+            "name": "Medical Technician",
+            "filename": "data\\Health and Wellness\\33_Medical Technician.png"
+        },
+        {
+            "name": "Medical Transcriptionist",
+            "filename": "data\\Health and Wellness\\34_Medical Transcriptionist.png"
+        },
+        {
+            "name": "Medical Writer",
+            "filename": "data\\Health and Wellness\\35_Medical Writer.png"
+        },
+        {
+            "name": "Naturopathic Doctor",
+            "filename": "data\\Health and Wellness\\36_Naturopathic Doctor.png"
+        },
+        {
+            "name": "Nurse",
+            "filename": "data\\Health and Wellness\\37_Nurse.png"
+        },
+        {
+            "name": "Nutritionist",
+            "filename": "data\\Health and Wellness\\38_Nutritionist-0.png"
+        },
+        {
+            "name": "Occupational Therapist",
+            "filename": "data\\Health and Wellness\\39_Occupational Therapist.png"
+        },
+        {
+            "name": "Oncologist",
+            "filename": "data\\Health and Wellness\\40_Oncologist.png"
+        },
+        {
+            "name": "Ophthalmologist_",
+            "filename": "data\\Health and Wellness\\41_Ophthalmologist_.png"
+        },
+        {
+            "name": "Optometrist",
+            "filename": "data\\Health and Wellness\\42_Optometrist-0.png"
+        },
+        {
+            "name": "Orthopaedist",
+            "filename": "data\\Health and Wellness\\43_Orthopaedist.png"
+        },
+        {
+            "name": "Orthotist",
+            "filename": "data\\Health and Wellness\\44_Orthotist.png"
+        },
+        {
+            "name": "Paediatrician",
+            "filename": "data\\Health and Wellness\\45_Paediatrician.png"
+        },
+        {
+            "name": "Palliative and Hospice Care Specialist",
+            "filename": "data\\Health and Wellness\\46_Palliative and Hospice Care Specialist.png"
+        },
+        {
+            "name": "Paramedic",
+            "filename": "data\\Health and Wellness\\47_Paramedic.png"
+        },
+        {
+            "name": "Perfusion Technologist",
+            "filename": "data\\Health and Wellness\\48_Perfusion Technologist.png"
+        },
+        {
+            "name": "Periodontist",
+            "filename": "data\\Health and Wellness\\49_Periodontist.png"
+        },
+        {
+            "name": "Pharmacist",
+            "filename": "data\\Health and Wellness\\50_Pharmacist.png"
+        },
+        {
+            "name": "Phlebotomist",
+            "filename": "data\\Health and Wellness\\51_Phlebotomist.png"
+        },
+        {
+            "name": "Physiotherapist",
+            "filename": "data\\Health and Wellness\\52_Physiotherapist.png"
+        },
+        {
+            "name": "Psychiatrist",
+            "filename": "data\\Health and Wellness\\53_Psychiatrist.png"
+        },
+        {
+            "name": "Psychological Counsellor-Counselling Psychologist",
+            "filename": "data\\Health and Wellness\\54_Psychological Counsellor-Counselling Psychologist.png"
+        },
+        {
+            "name": "Public Health Officer",
+            "filename": "data\\Health and Wellness\\55_Public Health Officer.png"
+        },
+        {
+            "name": "Pulmonologist",
+            "filename": "data\\Health and Wellness\\56_Pulmonologist.png"
+        },
+        {
+            "name": "Radiologist",
+            "filename": "data\\Health and Wellness\\57_Radiologist.png"
+        },
+        {
+            "name": "Rehabilitation Specialist",
+            "filename": "data\\Health and Wellness\\58_Rehabilitation Specialist.png"
+        },
+        {
+            "name": "Speech and Language Therapist Audiologist",
+            "filename": "data\\Health and Wellness\\59_Speech and Language Therapist Audiologist.png"
+        },
+        {
+            "name": "Sports Analyst",
+            "filename": "data\\Health and Wellness\\60_Sports Analyst.png"
+        },
+        {
+            "name": "Sports Coach",
+            "filename": "data\\Health and Wellness\\61_Sports Coach.png"
+        },
+        {
+            "name": "Sports Medicine Specialist",
+            "filename": "data\\Health and Wellness\\62_Sports Medicine Specialist.png"
+        },
+        {
+            "name": "Sports Psychologist",
+            "filename": "data\\Health and Wellness\\63_Sports Psychologist.png"
+        },
+        {
+            "name": "Sports Scout",
+            "filename": "data\\Health and Wellness\\64_Sports Scout.png"
+        },
+        {
+            "name": "Sportsperson",
+            "filename": "data\\Health and Wellness\\65_Sportsperson.png"
+        },
+        {
+            "name": "Surgeon",
+            "filename": "data\\Health and Wellness\\66_Surgeon.png"
+        },
+        {
+            "name": "Technician \u2013 Dental, Radiation Therapy,  Anaesthesia, Dialysis, Operation Theatre, Blood Bank, Vision, Panchkarma",
+            "filename": "data\\Health and Wellness\\67_Technician \u2013 Dental, Radiation Therapy,  Anaesthesia, Dialysis, Operation Theatre, Blood Bank, Vision, Panchkarma.png"
+        },
+        {
+            "name": "Umpire (Cricket)",
+            "filename": "data\\Health and Wellness\\68_Umpire (Cricket).png"
+        },
+        {
+            "name": "Unani Doctor",
+            "filename": "data\\Health and Wellness\\69_Unani Doctor.png"
+        },
+        {
+            "name": "Urologist",
+            "filename": "data\\Health and Wellness\\70_Urologist.png"
+        },
+        {
+            "name": "Yoga Instructor",
+            "filename": "data\\Health and Wellness\\71_Yoga Instructor.png"
+        }
+    ],
+    "Information Technology": [
+        {
+            "name": "Artificial Intelligence Engineer",
+            "filename": "data\\Information Technology\\01_Artificial Intelligence Engineer_0.png"
+        },
+        {
+            "name": "Augmented Reality Engineer",
+            "filename": "data\\Information Technology\\02_Augmented Reality Engineer_0.png"
+        },
+        {
+            "name": "Big Data Analyst",
+            "filename": "data\\Information Technology\\03_Big Data Analyst_0.png"
+        },
+        {
+            "name": "Blockchain Developer",
+            "filename": "data\\Information Technology\\04_Blockchain Developer_0.png"
+        },
+        {
+            "name": "Cloud Engineer",
+            "filename": "data\\Information Technology\\05_Cloud Engineer_0.png"
+        },
+        {
+            "name": "Computer Hardware Engineer",
+            "filename": "data\\Information Technology\\06_Computer Hardware Engineer_0.png"
+        },
+        {
+            "name": "Computer Network Architect",
+            "filename": "data\\Information Technology\\07_Computer Network Architect_0.png"
+        },
+        {
+            "name": "Computer Science Engineer",
+            "filename": "data\\Information Technology\\08_Computer Science Engineer_0.png"
+        },
+        {
+            "name": "Computer Scientist",
+            "filename": "data\\Information Technology\\09_Computer Scientist_0.png"
+        },
+        {
+            "name": "Cyber Security Specialist",
+            "filename": "data\\Information Technology\\10_Cyber Security Specialist_0.png"
+        },
+        {
+            "name": "Data Scientist",
+            "filename": "data\\Information Technology\\11_Data Scientist_0.png"
+        },
+        {
+            "name": "Database Administrator",
+            "filename": "data\\Information Technology\\12_Database Administrator_0.png"
+        },
+        {
+            "name": "Full Stack Developer",
+            "filename": "data\\Information Technology\\13_Full Stack Developer_0.png"
+        },
+        {
+            "name": "Game Designer and Developer",
+            "filename": "data\\Information Technology\\14_Game Designer and Developer_0.png"
+        },
+        {
+            "name": "Help Desk Analyst",
+            "filename": "data\\Information Technology\\15_Help Desk Analyst_0.png"
+        },
+        {
+            "name": "Information Technology Engineer",
+            "filename": "data\\Information Technology\\16_Information Technology Engineer_0.png"
+        },
+        {
+            "name": "Internet of Things (IoT) Solutions Architect",
+            "filename": "data\\Information Technology\\17_Internet of Things (IoT) Solutions Architect_0.png"
+        },
+        {
+            "name": "Network Administrator",
+            "filename": "data\\Information Technology\\18_Network Administrator_0.png"
+        },
+        {
+            "name": "ProgrammerCoderSoftware Engineer",
+            "filename": "data\\Information Technology\\19_ProgrammerCoderSoftware Engineer_0.png"
+        },
+        {
+            "name": "Search Engine Operationalisation Manager",
+            "filename": "data\\Information Technology\\20_Search Engine Operationalisation Manager_0.png"
+        },
+        {
+            "name": "Software Application Packager",
+            "filename": "data\\Information Technology\\21_Software Application Packager_0.png"
+        },
+        {
+            "name": "Systems Analyst",
+            "filename": "data\\Information Technology\\22_Systems Analyst_0.png"
+        },
+        {
+            "name": "UX Designer",
+            "filename": "data\\Information Technology\\23_UX Designer_0.png"
+        },
+        {
+            "name": "Virtual Reality Engineer",
+            "filename": "data\\Information Technology\\24_Virtual Reality Engineer_0.png"
+        },
+        {
+            "name": "Web Analyst",
+            "filename": "data\\Information Technology\\25_Web Analyst_0.png"
+        },
+        {
+            "name": "Web Designer",
+            "filename": "data\\Information Technology\\26_Web Designer_0.png"
+        }
+    ],
+    "Management": [
+        {
+            "name": "Assistant Catering Manager",
+            "filename": "data\\Management\\01_Assistant Catering Manager.png"
+        },
+        {
+            "name": "Business Process Outsourcing Executive",
+            "filename": "data\\Management\\02_Business Process Outsourcing Executive.png"
+        },
+        {
+            "name": "Event Manager",
+            "filename": "data\\Management\\03_Event Manager.png"
+        },
+        {
+            "name": "Human Resource Manager",
+            "filename": "data\\Management\\04_Human Resource Manager.png"
+        },
+        {
+            "name": "Inventory Manager",
+            "filename": "data\\Management\\05_Inventory Manager.png"
+        },
+        {
+            "name": "Knowledge Process Outsourcing Executive",
+            "filename": "data\\Management\\06_Knowledge Process Outsourcing Executive.png"
+        },
+        {
+            "name": "Purchasing and Materials Manager",
+            "filename": "data\\Management\\07_Purchasing and Materials Manager.png"
+        },
+        {
+            "name": "Retail Manager",
+            "filename": "data\\Management\\08_Retail Manager.png"
+        },
+        {
+            "name": "Rural Development Specialist Manager",
+            "filename": "data\\Management\\09_Rural Development Specialist Manager.png"
+        },
+        {
+            "name": "Sales and Marketing Manager",
+            "filename": "data\\Management\\10_Sales and Marketing Manager.png"
+        },
+        {
+            "name": "Sports AgentManager",
+            "filename": "data\\Management\\11_Sports AgentManager.png"
+        },
+        {
+            "name": "Sports Equipment Manager",
+            "filename": "data\\Management\\12_Sports Equipment Manager.png"
+        }
+    ],
+    "Operations,Logistics and Hospitality": [
+        {
+            "name": "Air HostessPurser",
+            "filename": "data\\Operations,Logistics and Hospitality\\01_Air HostessPurser_0.png"
+        },
+        {
+            "name": "Air Traffic Controller",
+            "filename": "data\\Operations,Logistics and Hospitality\\02_Air Traffic Controller_0.png"
+        },
+        {
+            "name": "Aircraft Pilot",
+            "filename": "data\\Operations,Logistics and Hospitality\\03_Aircraft Pilot_0.png"
+        },
+        {
+            "name": "Airline Cargo Assistant",
+            "filename": "data\\Operations,Logistics and Hospitality\\04_Airline Cargo Assistant_0.png"
+        },
+        {
+            "name": "Airline Customer Service Executive",
+            "filename": "data\\Operations,Logistics and Hospitality\\05_Airline Customer Service Executive_0.png"
+        },
+        {
+            "name": "Airline Ground Support Equipment Operator",
+            "filename": "data\\Operations,Logistics and Hospitality\\06_Airline Ground Support Equipment Operator_0.png"
+        },
+        {
+            "name": "Auctioneer",
+            "filename": "data\\Operations,Logistics and Hospitality\\07_Auctioneer_0.png"
+        },
+        {
+            "name": "BartenderMixologist",
+            "filename": "data\\Operations,Logistics and Hospitality\\08_BartenderMixologist_0.png"
+        },
+        {
+            "name": "Bulldozer Operator",
+            "filename": "data\\Operations,Logistics and Hospitality\\09_Bulldozer Operator_0.png"
+        },
+        {
+            "name": "Cold Chain Process Management Specialist",
+            "filename": "data\\Operations,Logistics and Hospitality\\10_Cold Chain Process Management Specialist_0.png"
+        },
+        {
+            "name": "Commercial Driver",
+            "filename": "data\\Operations,Logistics and Hospitality\\11_Commercial Driver_0.png"
+        },
+        {
+            "name": "Conveyor operation",
+            "filename": "data\\Operations,Logistics and Hospitality\\12_Conveyor operation-0.png"
+        },
+        {
+            "name": "Distribution Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\13_Distribution Manager_0.png"
+        },
+        {
+            "name": "Food and Beverage Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\14_Food and Beverage Manager_0.png"
+        },
+        {
+            "name": "Front Office Associate",
+            "filename": "data\\Operations,Logistics and Hospitality\\15_Front Office Associate_0.png"
+        },
+        {
+            "name": "Logistics Analyst",
+            "filename": "data\\Operations,Logistics and Hospitality\\16_Logistics Analyst_0.png"
+        },
+        {
+            "name": "Logistics Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\17_Logistics Manager_0.png"
+        },
+        {
+            "name": "Multi-Tasking Staff",
+            "filename": "data\\Operations,Logistics and Hospitality\\18_Multi-Tasking Staff_0.png"
+        },
+        {
+            "name": "Nature Guide",
+            "filename": "data\\Operations,Logistics and Hospitality\\19_Nature Guide_0.png"
+        },
+        {
+            "name": "Office Administrator",
+            "filename": "data\\Operations,Logistics and Hospitality\\20_Office Administrator_0.png"
+        },
+        {
+            "name": "Operations Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\21_Operations Manager_0.png"
+        },
+        {
+            "name": "Package Dyeing Machine Operator",
+            "filename": "data\\Operations,Logistics and Hospitality\\22_Package Dyeing Machine Operator_0.png"
+        },
+        {
+            "name": "Port Operations Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\23_Port Operations Manager_0.png"
+        },
+        {
+            "name": "SecretaryPersonal Assistant",
+            "filename": "data\\Operations,Logistics and Hospitality\\24_SecretaryPersonal Assistant_0.png"
+        },
+        {
+            "name": "Sommelier",
+            "filename": "data\\Operations,Logistics and Hospitality\\25_Sommelier_0.png"
+        },
+        {
+            "name": "Supply Chain Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\26_Supply Chain Manager_0.png"
+        },
+        {
+            "name": "Tour Guide",
+            "filename": "data\\Operations,Logistics and Hospitality\\27_Tour Guide_0.png"
+        },
+        {
+            "name": "Tour Operator",
+            "filename": "data\\Operations,Logistics and Hospitality\\28_Tour Operator_0.png"
+        },
+        {
+            "name": "Transportation Manager",
+            "filename": "data\\Operations,Logistics and Hospitality\\29_Transportation Manager_0.png"
+        },
+        {
+            "name": "Travel Consultant",
+            "filename": "data\\Operations,Logistics and Hospitality\\30_Travel Consultant_0.png"
+        },
+        {
+            "name": "Urban Planner",
+            "filename": "data\\Operations,Logistics and Hospitality\\31_Urban Planner_0.png"
+        }
+    ],
+    "Public Policy,Law and Safety": [
+        {
+            "name": "Arbitrator",
+            "filename": "data\\Public Policy,Law and Safety\\01_Arbitrator.png"
+        },
+        {
+            "name": "Corporate Legal AdvisorCompliance Officer",
+            "filename": "data\\Public Policy,Law and Safety\\02_Corporate Legal AdvisorCompliance Officer.png"
+        },
+        {
+            "name": "Detective",
+            "filename": "data\\Public Policy,Law and Safety\\03_Detective.png"
+        },
+        {
+            "name": "Fire Fighter",
+            "filename": "data\\Public Policy,Law and Safety\\04_Fire Fighter.png"
+        },
+        {
+            "name": "Human Rights Lawyer",
+            "filename": "data\\Public Policy,Law and Safety\\05_Human Rights Lawyer.png"
+        },
+        {
+            "name": "International Relations Specialist_",
+            "filename": "data\\Public Policy,Law and Safety\\06_International Relations Specialist_.png"
+        },
+        {
+            "name": "Judge",
+            "filename": "data\\Public Policy,Law and Safety\\07_Judge.png"
+        },
+        {
+            "name": "LawyerLaw OfficerAdvocate",
+            "filename": "data\\Public Policy,Law and Safety\\08_LawyerLaw OfficerAdvocate.png"
+        },
+        {
+            "name": "Medico Legal Advisor",
+            "filename": "data\\Public Policy,Law and Safety\\09_Medico Legal Advisor.png"
+        },
+        {
+            "name": "Patent Lawyer",
+            "filename": "data\\Public Policy,Law and Safety\\10_Patent Lawyer.png"
+        },
+        {
+            "name": "Psephologist",
+            "filename": "data\\Public Policy,Law and Safety\\11_Psephologist.png"
+        },
+        {
+            "name": "Public Policy Advisor",
+            "filename": "data\\Public Policy,Law and Safety\\12_Public Policy Advisor.png"
+        },
+        {
+            "name": "Social Worker",
+            "filename": "data\\Public Policy,Law and Safety\\13_Social Worker.png"
+        },
+        {
+            "name": "Sports Lawyer",
+            "filename": "data\\Public Policy,Law and Safety\\14_Sports Lawyer.png"
+        },
+        {
+            "name": "Unarmed Security Guard",
+            "filename": "data\\Public Policy,Law and Safety\\15_Unarmed Security Guard.png"
+        }
+    ],
+    "Research and Development": [
+        {
+            "name": "Anthropologist",
+            "filename": "data\\Research and Development\\01_Anthropologist.png"
+        },
+        {
+            "name": "Archaeologist",
+            "filename": "data\\Research and Development\\02_Archaeologist.png"
+        },
+        {
+            "name": "Astrophysicist",
+            "filename": "data\\Research and Development\\03_Astrophysicist.png"
+        },
+        {
+            "name": "Botanist",
+            "filename": "data\\Research and Development\\04_Botanist.png"
+        },
+        {
+            "name": "Child Development Specialist",
+            "filename": "data\\Research and Development\\05_Child Development Specialist.png"
+        },
+        {
+            "name": "Criminologist",
+            "filename": "data\\Research and Development\\06_Criminologist.png"
+        },
+        {
+            "name": "Curator",
+            "filename": "data\\Research and Development\\07_Curator.png"
+        },
+        {
+            "name": "Cytologist",
+            "filename": "data\\Research and Development\\08_Cytologist.png"
+        },
+        {
+            "name": "Data Collector or Field Surveyor Enumerator",
+            "filename": "data\\Research and Development\\09_Data Collector or Field Surveyor Enumerator.png"
+        },
+        {
+            "name": "Demographer",
+            "filename": "data\\Research and Development\\10_Demographer.png"
+        },
+        {
+            "name": "Ecologist",
+            "filename": "data\\Research and Development\\11_Ecologist.png"
+        },
+        {
+            "name": "Economist",
+            "filename": "data\\Research and Development\\12_Economist.png"
+        },
+        {
+            "name": "Engineering Physicist",
+            "filename": "data\\Research and Development\\13_Engineering Physicist.png"
+        },
+        {
+            "name": "English Literature Scholar",
+            "filename": "data\\Research and Development\\14_English Literature Scholar.png"
+        },
+        {
+            "name": "Epigraphist",
+            "filename": "data\\Research and Development\\15_Epigraphist.png"
+        },
+        {
+            "name": "Forensic Scientist",
+            "filename": "data\\Research and Development\\16_Forensic Scientist.png"
+        },
+        {
+            "name": "Genetic EngineerGeneticist",
+            "filename": "data\\Research and Development\\17_Genetic EngineerGeneticist.png"
+        },
+        {
+            "name": "Geographer",
+            "filename": "data\\Research and Development\\18_Geographer.png"
+        },
+        {
+            "name": "Geologist",
+            "filename": "data\\Research and Development\\19_Geologist.png"
+        },
+        {
+            "name": "Historian",
+            "filename": "data\\Research and Development\\20_Historian.png"
+        },
+        {
+            "name": "Mathematician",
+            "filename": "data\\Research and Development\\21_Mathematician.png"
+        },
+        {
+            "name": "Meteorologist",
+            "filename": "data\\Research and Development\\22_Meteorologist.png"
+        },
+        {
+            "name": "Museologist",
+            "filename": "data\\Research and Development\\23_Museologist.png"
+        },
+        {
+            "name": "Nano Scientist",
+            "filename": "data\\Research and Development\\24_Nano Scientist-0.png"
+        },
+        {
+            "name": "Paleontologist",
+            "filename": "data\\Research and Development\\25_Paleontologist.png"
+        },
+        {
+            "name": "Physicist",
+            "filename": "data\\Research and Development\\26_Physicist.png"
+        },
+        {
+            "name": "Political Scientist",
+            "filename": "data\\Research and Development\\27_Political Scientist.png"
+        },
+        {
+            "name": "Scientific Assistant",
+            "filename": "data\\Research and Development\\28_Scientific Assistant.png"
+        },
+        {
+            "name": "Seismologist",
+            "filename": "data\\Research and Development\\29_Seismologist.png"
+        },
+        {
+            "name": "Sociologist",
+            "filename": "data\\Research and Development\\30_Sociologist.png"
+        },
+        {
+            "name": "Space Scientist",
+            "filename": "data\\Research and Development\\31_Space Scientist.png"
+        },
+        {
+            "name": "Statistician",
+            "filename": "data\\Research and Development\\32_Statistician.png"
+        },
+        {
+            "name": "Toxicologist",
+            "filename": "data\\Research and Development\\33_Toxicologist.png"
+        },
+        {
+            "name": "Virologist",
+            "filename": "data\\Research and Development\\34_Virologist.png"
+        },
+        {
+            "name": "Zoologist",
+            "filename": "data\\Research and Development\\35_Zoologist.png"
+        }
+    ],
+    "Technical and Skill Trades": [
+        {
+            "name": "Applique Artisan",
+            "filename": "data\\Technical and Skill Trades\\01_Applique Artisan.png"
+        },
+        {
+            "name": "Assistant Beauty Therapist",
+            "filename": "data\\Technical and Skill Trades\\02_Assistant Beauty Therapist.png"
+        },
+        {
+            "name": "Assistant Carpenter (Wooden Furniture)",
+            "filename": "data\\Technical and Skill Trades\\03_Assistant Carpenter (Wooden Furniture).png"
+        },
+        {
+            "name": "Assistant False Ceiling and Drywall Installer",
+            "filename": "data\\Technical and Skill Trades\\04_Assistant False Ceiling and Drywall Installer.png"
+        },
+        {
+            "name": "Assistant Fitter (Levelling, Alignment and Balancing)",
+            "filename": "data\\Technical and Skill Trades\\05_Assistant Fitter (Levelling, Alignment and Balancing).png"
+        },
+        {
+            "name": "Assistant Hair Stylist",
+            "filename": "data\\Technical and Skill Trades\\06_Assistant Hair Stylist.png"
+        },
+        {
+            "name": "Assistant Surveyor",
+            "filename": "data\\Technical and Skill Trades\\07_Assistant Surveyor.png"
+        },
+        {
+            "name": "Autoservice Technician",
+            "filename": "data\\Technical and Skill Trades\\08_Autoservice Technician 0.png"
+        },
+        {
+            "name": "Auto E Rickshaw Driver and Technician",
+            "filename": "data\\Technical and Skill Trades\\09_Auto E Rickshaw Driver and Technician.png"
+        },
+        {
+            "name": "Automotive Electrician",
+            "filename": "data\\Technical and Skill Trades\\10_Automotive Electrician.png"
+        },
+        {
+            "name": "Bamboo Mat Weaver",
+            "filename": "data\\Technical and Skill Trades\\11_Bamboo Mat Weaver.png"
+        },
+        {
+            "name": "Bamboo Utility Product Tailor",
+            "filename": "data\\Technical and Skill Trades\\12_Bamboo Utility Product Tailor.png"
+        },
+        {
+            "name": "Cake Artist",
+            "filename": "data\\Technical and Skill Trades\\13_Cake Artist.png"
+        },
+        {
+            "name": "Camp Helper",
+            "filename": "data\\Technical and Skill Trades\\14_Camp Helper.png"
+        },
+        {
+            "name": "CCTV Installation Technician",
+            "filename": "data\\Technical and Skill Trades\\15_CCTV Installation Technician.png"
+        },
+        {
+            "name": "Chef",
+            "filename": "data\\Technical and Skill Trades\\16_Chef.png"
+        },
+        {
+            "name": "Child Caretaker (Non-clinical)",
+            "filename": "data\\Technical and Skill Trades\\17_Child Caretaker (Non-clinical).png"
+        },
+        {
+            "name": "Chocolatier",
+            "filename": "data\\Technical and Skill Trades\\18_Chocolatier.png"
+        },
+        {
+            "name": "CNC Operator (Turning)",
+            "filename": "data\\Technical and Skill Trades\\19_CNC Operator (Turning).png"
+        },
+        {
+            "name": "Coffee Taster",
+            "filename": "data\\Technical and Skill Trades\\20_Coffee Taster.png"
+        },
+        {
+            "name": "Construction Painter and Decorator",
+            "filename": "data\\Technical and Skill Trades\\21_Construction Painter and Decorator.png"
+        },
+        {
+            "name": "Crochet Lacemaker \u2013 Furnishings",
+            "filename": "data\\Technical and Skill Trades\\22_Crochet Lacemaker \u2013 Furnishings.png"
+        },
+        {
+            "name": "Doors and Windows Fixer",
+            "filename": "data\\Technical and Skill Trades\\23_Doors and Windows Fixer.png"
+        },
+        {
+            "name": "Draughtsman",
+            "filename": "data\\Technical and Skill Trades\\24_Draughtsman.png"
+        },
+        {
+            "name": "DTH Set Top Box Installation and Service Technician",
+            "filename": "data\\Technical and Skill Trades\\25_DTH Set Top Box Installation and Service Technician.png"
+        },
+        {
+            "name": "Electric Vehicle Assembly Technician",
+            "filename": "data\\Technical and Skill Trades\\26_Electric Vehicle Assembly Technician.png"
+        },
+        {
+            "name": "Electrician",
+            "filename": "data\\Technical and Skill Trades\\27_Electrician.png"
+        },
+        {
+            "name": "E-waste Collector",
+            "filename": "data\\Technical and Skill Trades\\28_E-waste Collector.png"
+        },
+        {
+            "name": "Field Technician \u2013 Other Home Appliances",
+            "filename": "data\\Technical and Skill Trades\\29_Field Technician \u2013 Other Home Appliances.png"
+        },
+        {
+            "name": "Fitter \u2013 Electrical and Electronic Assembly",
+            "filename": "data\\Technical and Skill Trades\\30_Fitter \u2013 Electrical and Electronic Assembly.png"
+        },
+        {
+            "name": "Fitter - Fabrication",
+            "filename": "data\\Technical and Skill Trades\\31_Fitter - Fabrication.png"
+        },
+        {
+            "name": "Fitter \u2013 Mechanical Assembly",
+            "filename": "data\\Technical and Skill Trades\\32_Fitter \u2013 Mechanical Assembly.png"
+        },
+        {
+            "name": "Fitter \u2013 Processing",
+            "filename": "data\\Technical and Skill Trades\\33_Fitter \u2013 Processing.png"
+        },
+        {
+            "name": "Food and Beverage Service Steward",
+            "filename": "data\\Technical and Skill Trades\\34_Food and Beverage Service Steward.png"
+        },
+        {
+            "name": "General Housekeeper",
+            "filename": "data\\Technical and Skill Trades\\35_General Housekeeper.png"
+        },
+        {
+            "name": "Helper \u2013 Carpenter",
+            "filename": "data\\Technical and Skill Trades\\36_Helper \u2013 Carpenter.png"
+        },
+        {
+            "name": "Helper \u2013 Fabricator",
+            "filename": "data\\Technical and Skill Trades\\37_Helper \u2013 Fabricator.png"
+        },
+        {
+            "name": "Home Delivery Boy",
+            "filename": "data\\Technical and Skill Trades\\38_Home Delivery Boy.png"
+        },
+        {
+            "name": "Homecook",
+            "filename": "data\\Technical and Skill Trades\\39_Homecook.png"
+        },
+        {
+            "name": "Housekeeping Attendant",
+            "filename": "data\\Technical and Skill Trades\\40_Housekeeping Attendant.png"
+        },
+        {
+            "name": "Industrial Production Worker \u2013 Food Processing",
+            "filename": "data\\Technical and Skill Trades\\41_Industrial Production Worker \u2013 Food Processing.png"
+        },
+        {
+            "name": "Installer \u2013 Frameless Glass Doors Windows",
+            "filename": "data\\Technical and Skill Trades\\42_Installer \u2013 Frameless Glass Doors Windows.png"
+        },
+        {
+            "name": "Jute Handloom Weaver",
+            "filename": "data\\Technical and Skill Trades\\43_Jute Handloom Weaver.png"
+        },
+        {
+            "name": "Kitchen Steward",
+            "filename": "data\\Technical and Skill Trades\\44_Kitchen Steward.png"
+        },
+        {
+            "name": "Lapidarist",
+            "filename": "data\\Technical and Skill Trades\\45_Lapidarist.png"
+        },
+        {
+            "name": "Leather Technologist",
+            "filename": "data\\Technical and Skill Trades\\46_Leather Technologist.png"
+        },
+        {
+            "name": "Light Vehcle Driver",
+            "filename": "data\\Technical and Skill Trades\\47_Light Vehcle Driver.png"
+        },
+        {
+            "name": "Mason (General)",
+            "filename": "data\\Technical and Skill Trades\\48_Mason (General).png"
+        },
+        {
+            "name": "Mason (Stone)",
+            "filename": "data\\Technical and Skill Trades\\49_Mason (Stone).png"
+        },
+        {
+            "name": "Mason (Tiling)",
+            "filename": "data\\Technical and Skill Trades\\50_Mason (Tiling).png"
+        },
+        {
+            "name": "Master Hand Embroiderer (Hand Crafted Textiles)",
+            "filename": "data\\Technical and Skill Trades\\51_Master Hand Embroiderer (Hand Crafted Textiles).png"
+        },
+        {
+            "name": "Mechanical Fitter",
+            "filename": "data\\Technical and Skill Trades\\52_Mechanical Fitter.png"
+        },
+        {
+            "name": "Multi-skill Technician (Electrical)",
+            "filename": "data\\Technical and Skill Trades\\53_Multi-skill Technician (Electrical).png"
+        },
+        {
+            "name": "Multi-skill Technician (Food Processing)",
+            "filename": "data\\Technical and Skill Trades\\54_Multi-skill Technician (Food Processing).png"
+        },
+        {
+            "name": "Oil Technologist",
+            "filename": "data\\Technical and Skill Trades\\55_Oil Technologist.png"
+        },
+        {
+            "name": "Operator Boring Machine",
+            "filename": "data\\Technical and Skill Trades\\56_Operator Boring Machine.png"
+        },
+        {
+            "name": "Pastry Chef",
+            "filename": "data\\Technical and Skill Trades\\57_Pastry Chef.png"
+        },
+        {
+            "name": "Plumber",
+            "filename": "data\\Technical and Skill Trades\\58_Plumber.png"
+        },
+        {
+            "name": "Refrigeration Technician",
+            "filename": "data\\Technical and Skill Trades\\59_Refrigeration Technician.png"
+        },
+        {
+            "name": "Retail Cashier",
+            "filename": "data\\Technical and Skill Trades\\60_Retail Cashier.png"
+        },
+        {
+            "name": "Retail Store Operations Assistant",
+            "filename": "data\\Technical and Skill Trades\\61_Retail Store Operations Assistant.png"
+        },
+        {
+            "name": "Room Attendant",
+            "filename": "data\\Technical and Skill Trades\\62_Room Attendant.png"
+        },
+        {
+            "name": "Rubber Technologist",
+            "filename": "data\\Technical and Skill Trades\\63_Rubber Technologist.png"
+        },
+        {
+            "name": "Self-employed E-tailer",
+            "filename": "data\\Technical and Skill Trades\\64_Self-employed E-tailer.png"
+        },
+        {
+            "name": "Sewing Machine Operator",
+            "filename": "data\\Technical and Skill Trades\\65_Sewing Machine Operator.png"
+        },
+        {
+            "name": "Showroom Hostess",
+            "filename": "data\\Technical and Skill Trades\\66_Showroom Hostess.png"
+        },
+        {
+            "name": "Smartphone Technician",
+            "filename": "data\\Technical and Skill Trades\\67_Smartphone Technician.png"
+        },
+        {
+            "name": "Solar and LED Technician",
+            "filename": "data\\Technical and Skill Trades\\68_Solar and LED Technician.png"
+        },
+        {
+            "name": "Spa Therapist",
+            "filename": "data\\Technical and Skill Trades\\69_Spa Therapist.png"
+        },
+        {
+            "name": "Stonecutter (Cutting Machine Operator) \u2013 Stone Craft",
+            "filename": "data\\Technical and Skill Trades\\70_Stonecutter (Cutting Machine Operator) \u2013 Stone Craft.png"
+        },
+        {
+            "name": "Storekeeper \u2013 Construction",
+            "filename": "data\\Technical and Skill Trades\\71_Storekeeper \u2013 Construction.png"
+        },
+        {
+            "name": "StringingBeading Artist (Fashion Jewellery)",
+            "filename": "data\\Technical and Skill Trades\\72_StringingBeading Artist (Fashion Jewellery).png"
+        },
+        {
+            "name": "Sugar Technologist",
+            "filename": "data\\Technical and Skill Trades\\73_Sugar Technologist.png"
+        },
+        {
+            "name": "Tea Taster",
+            "filename": "data\\Technical and Skill Trades\\74_Tea Taster.png"
+        },
+        {
+            "name": "Tour Operator",
+            "filename": "data\\Technical and Skill Trades\\75_Tour Operator.png"
+        },
+        {
+            "name": "Tower Technician",
+            "filename": "data\\Technical and Skill Trades\\76_Tower Technician.png"
+        },
+        {
+            "name": "Trainee Chef",
+            "filename": "data\\Technical and Skill Trades\\77_Trainee Chef.png"
+        },
+        {
+            "name": "Waste Collector",
+            "filename": "data\\Technical and Skill Trades\\78_Waste Collector.png"
+        },
+        {
+            "name": "Wood Polisher",
+            "filename": "data\\Technical and Skill Trades\\79_Wood Polisher.png"
+        }
+    ]
+}
